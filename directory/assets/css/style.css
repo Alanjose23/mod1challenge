@@ -75,13 +75,13 @@ p {
     margin-left: 25px;
 }
 
-.content {
+content {
     width: 75%;
-    display: inline-block;
+    display:inline;
     margin-left: 20px;
 }
 
-.benefits {
+.side {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -92,7 +92,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+ .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -141,6 +141,7 @@ p {
 }
 
 .search-engine-optimization {
+   
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -150,6 +151,7 @@ p {
 }
 
 .online-reputation-management {
+    
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -159,6 +161,7 @@ p {
 }
 
 .social-media-marketing {
+    
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
